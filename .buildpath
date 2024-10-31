@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry external="true" kind="lib" path="D:/xampp/apps/wordpress/htdocs/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_data"/>
+	<buildpathentry kind="src" path=""/>
+	<buildpathentry kind="con" path="org.eclipse.php.core.LANGUAGE"/>
+</buildpath>

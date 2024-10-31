@@ -1,0 +1,42 @@
+button.nggic-tree {
+	display: inline;
+}
+
+button.selected {
+	font-weight: bold;
+}
+
+.deni-react-treeview-item-container .icon {
+	background-image: url(images/folder-multiple-image.svg) !important;
+}
+
+.deni-react-treeview-item-container .icon.isleaf {
+	background-image: url(images/folder-image.svg) !important;
+}
+
+.components-button.insert-button {
+	height: 24px;
+	margin: 5px;
+}
+
+.components-radio-control .components-base-control__field {
+    display: flex;
+    flex-direction: row;
+}
+
+.components-radio-control__option {
+	margin-left: 5px;	
+}
+
+.deni-react-treeview-container.nggic-tree {
+	flex: 1;
+	height: 740px;
+}
+
+.nggic-fieldset {
+	border: 1px solid #dfdfdf;
+}
+
+.nggic-select label {
+	margin: 5px;
+}

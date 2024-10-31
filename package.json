@@ -1,0 +1,21 @@
+{
+  "name": "ngg-image-chooser-block",
+  "version": "1.0.2",
+  "description": "Image Chooser for NextGEN Gallery",
+  "main": "index.js",
+  "scripts": {
+    "start": "wp-scripts start",
+    "build": "wp-scripts build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "umertin",
+  "license": "GPL-2.0-only",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "deni-react-treeview": "^1.1.11",
+    "react-native-web": "^0.14.4"
+  },
+  "devDependencies": {
+    "@wordpress/scripts": "12.5.0"
+  }
+}
